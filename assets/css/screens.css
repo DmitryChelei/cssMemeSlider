@@ -125,3 +125,44 @@
     justify-content: center;
   }
 }
+
+@media (max-width: 480px) {
+  .slider {
+    width: 24rem;
+  }
+
+  .slides {
+    height: 13.5rem;
+  }
+
+  .items {
+    width: 24rem;
+    display: block;
+  }
+
+  .text__container {
+    max-width: 8.5rem;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+  }
+
+  p {
+    width: 8.5rem;
+    font-size: 6.5px;
+    text-align: center;
+  }
+
+  label {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+
+  .custom__controls {
+    width: 0.75rem;
+    height: 0.75rem;
+  }
+
+  .controls {
+    justify-content: center;
+  }
+}
