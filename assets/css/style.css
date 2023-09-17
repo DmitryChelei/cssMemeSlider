@@ -47,7 +47,7 @@ p {
 
 .slide {
   width: 25%;
-  transition: all 0.6s ease;
+  transition: all 1s ease;
 }
 
 img {
@@ -113,7 +113,7 @@ img {
 .text3,
 .text4 {
   width: 25%;
-  transition: all 0.6s ease;
+  transition: all 1.5s ease;
 }
 
 .controls {
@@ -148,7 +148,7 @@ label {
   width: 1rem;
   height: 1rem;
   background: #3498db;
-  border: 2px solid #3498db;
+  border: 0.125rem solid #3498db;
   border-radius: 50%;
   vertical-align: middle;
 }
